@@ -6,7 +6,7 @@
  - Show some tweets
 - Groundwork for understanding some of the ethical issues at hand
 - Social media not a monolithic thing
- - Not a single solution
+ - Therefore not a single solution
 - Solutions
  - Existing ethical standards in our own profession [Toolkit](URL)
  - Existing literature, like medical and social sciences [@cazzerson](@cazzerson)
@@ -41,4 +41,5 @@
  - Ethical, risk assessments
  - Existing donor relations to consider
  - Perceived historical significance may trump certain concerns
+- Also develop collecting guidelines that make sense v/v your existing collections / collecting strategies
 - Seek guidance from community members, where appropriate
