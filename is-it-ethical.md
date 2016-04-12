@@ -24,6 +24,7 @@ Collecting practices might inform the sort of ethical decisions institutions wil
  - Institutional records
  - Donated data
  - Data relevant to our existing collecting strategies and community (largely)
+ - Maybe cite prelimary evidence from MHL survey v/v support from campus members supporting contributing to the archives, ie, university's historic record
 
 ## Table 1. Label
 | Factor | Color |
